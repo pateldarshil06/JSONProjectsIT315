@@ -22,7 +22,7 @@
 			"ResortName": "Steamboat Ski Resort",
 			"ResortDescription": "Steamboat Resort is a major ski area in the western United States, located in northwestern Colorado at Steamboat Springs. It is located on Mount Werner, a mountain in the Park Range in the Routt National Forest. The ski area has 169 named trails spread over 2,965 acres.",
 			"ResortAddress": "2305 Mt Werner Cir, Steamboat Springs, CO 80487",
-            "ResortImage": "Whttps://raw.githubusercontent.com/pateldarshil06/JSONProjectsIT315/master/Steamboat.jpg"
+            "ResortImage": "https://raw.githubusercontent.com/pateldarshil06/JSONProjectsIT315/master/Steamboat.jpg"
 		},
 		{
 			"ResortName": "Whiteface Mountain Ski Resort",
